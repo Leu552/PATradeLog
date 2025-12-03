@@ -1,0 +1,5 @@
+{
+  "name": "V2 PA Trade Log & AI Coach",
+  "description": "A trading journal and pre-trade checklist app designed to curb emotional trading. Features AI-powered price action analysis, PnL tracking in points, and psychological self-assessments.",
+  "requestFramePermissions": []
+}

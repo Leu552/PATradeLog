@@ -1,0 +1,21 @@
+{
+  "short_name": "MindfulTrade",
+  "name": "Mindful Trader AI Coach",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/4f46e5/ffffff.png?text=MT&font=roboto",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://placehold.co/512x512/4f46e5/ffffff.png?text=MT&font=roboto",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#f8fafc",
+  "orientation": "portrait"
+}
